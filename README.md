@@ -12,6 +12,7 @@ Các bạn mở file hosts ở C:\Windows\System32\drivers\etc
 Thêm 2 dòng:
 
 119.81.140.205 j2mely.com
+
 119.81.140.205 ip.tinsoftsv.com
 
 và lưu lại
